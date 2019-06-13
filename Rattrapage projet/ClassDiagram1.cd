@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Rattrapage_projet.Caisse">
+    <Position X="10.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Caisse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rattrapage_projet.ChefDeRang">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAAgAAAABAAAEAAABA=</HashCode>
+      <FileName>ChefDeRang.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rattrapage_projet.Client">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAACBACAAgABAAAAAAAAIAAAAABAAAAAAA=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rattrapage_projet.Commande">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAIABAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Commande.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rattrapage_projet.Commis">
+    <Position X="1" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Commis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rattrapage_projet.Creator">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABABAAgAAAAAAVDKAAABAAAAAAAIgIAAAAAABAAAAA=</HashCode>
+      <FileName>Creator.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Recette" />
+      <Property Name="Ingredient" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Rattrapage_projet.Cuisinier">
+    <Position X="9" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAACIAAAAgAAAAAAAAAAAAAEAAAAAAI=</HashCode>
+      <FileName>Cuisinier.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Ingredient" />
+      <Property Name="Recette" />
+      <Property Name="Plat" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Rattrapage_projet.GroupeClient">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AggCLAAAgMAAIAHAABAAAQAAAAQICIQAQggAsAIQgGQ=</HashCode>
+      <FileName>GroupeClient.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Caisse" />
+      <Property Name="Client" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Rattrapage_projet.Ingredient">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAIA=</HashCode>
+      <FileName>Ingredient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rattrapage_projet.MaitreHotel">
+    <Position X="3.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAACAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MaitreHotel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rattrapage_projet.Plat">
+    <Position X="4.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Plat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rattrapage_projet.Program">
+    <Position X="15.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rattrapage_projet.Recette">
+    <Position X="10" Y="1" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Rattrapage_projet.Recette.typePlat" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Recette.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAACAAQCIAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Recette.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rattrapage_projet.Serveur">
+    <Position X="11.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAEAAIAAAACAQAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Serveur.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rattrapage_projet.Table">
+    <Position X="1.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAgAgAhAAABAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Table.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rattrapage_projet.ThreadedApp">
+    <Position X="3" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAgAAAAAAAAIAAAAACAAAAAAEIQAAAAAABACAAAAA=</HashCode>
+      <FileName>ThreadedApp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rattrapage_projet.Vaisselle">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vaisselle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

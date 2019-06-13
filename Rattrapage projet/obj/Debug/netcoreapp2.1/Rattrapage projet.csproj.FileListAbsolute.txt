@@ -1,0 +1,11 @@
+D:\Rattrapage\Rattrapage projet\bin\Debug\netcoreapp2.1\Rattrapage projet.deps.json
+D:\Rattrapage\Rattrapage projet\bin\Debug\netcoreapp2.1\Rattrapage projet.runtimeconfig.json
+D:\Rattrapage\Rattrapage projet\bin\Debug\netcoreapp2.1\Rattrapage projet.runtimeconfig.dev.json
+D:\Rattrapage\Rattrapage projet\bin\Debug\netcoreapp2.1\Rattrapage projet.dll
+D:\Rattrapage\Rattrapage projet\bin\Debug\netcoreapp2.1\Rattrapage projet.pdb
+D:\Rattrapage\Rattrapage projet\obj\Debug\netcoreapp2.1\Rattrapage projet.csprojAssemblyReference.cache
+D:\Rattrapage\Rattrapage projet\obj\Debug\netcoreapp2.1\Rattrapage projet.csproj.CoreCompileInputs.cache
+D:\Rattrapage\Rattrapage projet\obj\Debug\netcoreapp2.1\Rattrapage projet.AssemblyInfoInputs.cache
+D:\Rattrapage\Rattrapage projet\obj\Debug\netcoreapp2.1\Rattrapage projet.AssemblyInfo.cs
+D:\Rattrapage\Rattrapage projet\obj\Debug\netcoreapp2.1\Rattrapage projet.dll
+D:\Rattrapage\Rattrapage projet\obj\Debug\netcoreapp2.1\Rattrapage projet.pdb

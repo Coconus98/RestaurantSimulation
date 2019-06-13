@@ -1,0 +1,10 @@
+D:\Rattrapage\Rattrapage - Supervision\bin\Debug\Rattrapage - Supervision.exe.config
+D:\Rattrapage\Rattrapage - Supervision\bin\Debug\Rattrapage - Supervision.exe
+D:\Rattrapage\Rattrapage - Supervision\bin\Debug\Rattrapage - Supervision.pdb
+D:\Rattrapage\Rattrapage - Supervision\obj\Debug\Rattrapage - Supervision.csprojAssemblyReference.cache
+D:\Rattrapage\Rattrapage - Supervision\obj\Debug\Rattrapage___Supervision.Form1.resources
+D:\Rattrapage\Rattrapage - Supervision\obj\Debug\Rattrapage___Supervision.Properties.Resources.resources
+D:\Rattrapage\Rattrapage - Supervision\obj\Debug\Rattrapage - Supervision.csproj.GenerateResource.cache
+D:\Rattrapage\Rattrapage - Supervision\obj\Debug\Rattrapage - Supervision.csproj.CoreCompileInputs.cache
+D:\Rattrapage\Rattrapage - Supervision\obj\Debug\Rattrapage - Supervision.exe
+D:\Rattrapage\Rattrapage - Supervision\obj\Debug\Rattrapage - Supervision.pdb

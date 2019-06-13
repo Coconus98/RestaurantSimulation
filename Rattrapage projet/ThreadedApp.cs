@@ -11,8 +11,7 @@ namespace Rattrapage_projet
     {
         static List<GroupeClient> clientsEnAttente = new List<GroupeClient>();
 
-        // Cette méthode est appelé lors du lancement du thread
-        // C'est ici qu'il faudra faire notre travail.
+
         public static void arrivageClients()
         {
 
@@ -29,8 +28,6 @@ namespace Rattrapage_projet
                 {
                     clientsEnAttente[0].clientsGroupe.Add(new Client());
                 }
-                // Attente de 10000 ms             
-                // Affichage dans la console
                 Console.WriteLine(clientsEnAttente[0].clientsGroupe.Count + " clients sont arrivés !\n");
                 Thread.Sleep(55000);
             }
